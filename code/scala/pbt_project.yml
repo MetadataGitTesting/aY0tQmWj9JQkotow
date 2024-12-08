@@ -1,0 +1,74 @@
+name: vernon.kemmer
+description: discrete
+version: 0.0.1
+author: hsevqoxe.nzp5l4jx@r2cjt5f6.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: vernonkemmer
+  parentArtefactID: hsevqoxenzp5l4jxr2cjt5f6comteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:50:50'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:50:50'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:50:50.590063Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '896090714'
+  createdAt: '2024-12-08T23:50:50.590063Z'
+  type: plibMaven
+projectDependencies:
+  '380':
+    projectUID: 380
+    projectName: anton.carroll
+    repositoryPath: gitUri=http://gitserver:3000/dev_pI1jDtx2_team_611/dev_pI1jDtx2_project_380.git&subPath=
+    version: anton.carroll/1.8.3.479
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:50:50'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V:
+    author: hsevqoxe.nzp5l4jx@r2cjt5f6.com
+    createdAt: '2024-12-08 23:50:51'
+    configurations:
+      pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V/dev:
+        name: dev
+        author: null
+        createdAt: '2024-12-08 23:50:51'
+      pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-12-08 23:50:51'
+      pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-12-08 23:50:51'
+    basePipeline: 380/pipelines/Arlena_McClureMarj_OramDeanna_Conroy_V
