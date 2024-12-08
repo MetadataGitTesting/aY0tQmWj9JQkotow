@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: hsevqoxe.nzp5l4jx@r2cjt5f6.com
     createdAt: '2024-12-08 23:50:51'
     configurations:
-      pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V/dev:
-        name: dev
-        author: null
-        createdAt: '2024-12-08 23:50:51'
       pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-12-08 23:50:51'
-      pipelineConfigurations/anton.carroll/Arlena_McClureMarj_OramDeanna_Conroy_V/dev3:
-        name: dev3
         author: null
         createdAt: '2024-12-08 23:50:51'
     basePipeline: 380/pipelines/Arlena_McClureMarj_OramDeanna_Conroy_V
